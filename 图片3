@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>包含图片的 HTML 页面</title>
+</head>
+<body>
+
+<h1>欢迎来到图片展示页面</h1>
+
+<p>以下是一张图片：</p>
+
+<img src="111.jpg" alt="描述图片的文字">
+
+</body>
+</html>
